@@ -5,7 +5,7 @@ import (
 )
 
 func init() {
-	fmt.Println("init()")
+	fmt.Println("init() 2.0.0")
 }
 
 func FromG_V() {
